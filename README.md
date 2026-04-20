@@ -1,0 +1,2 @@
+# ChinaWeatherEncode
+中国天气网以及一些天气api的数字编码
