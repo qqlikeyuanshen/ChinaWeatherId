@@ -1,4 +1,4 @@
-# ChinaWeatherEncode
+# ChinaWeatherId
 中国天气网以及一些天气api的数字编码
 
 这些编码都是我从天气网爬的，你们爱怎么用怎么用吧
