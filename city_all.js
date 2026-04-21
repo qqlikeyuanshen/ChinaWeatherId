@@ -1,4 +1,4 @@
-const cityNameAndCityWeatherId = {
+{
     "北京": "101010100",
     "海淀": "101010200",
     "朝阳": "101071201",
@@ -12046,6 +12046,3 @@ const cityNameAndCityWeatherId = {
     "洛根城市水处理站": "601623100",
     "哥斯内尔斯市": "601629100"
 }
-
-
-module.exports = cityNameAndCityWeatherId
